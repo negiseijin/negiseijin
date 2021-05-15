@@ -1,8 +1,8 @@
-- 👋 Hi, I’m [@negiseijin!](https://twitter.com/green___onion)
+- 👋 Hi, I’m [negiseijin!](https://twitter.com/green___onion)
 - 👀 I’m interested in Jamstack
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate with you
-- 📫 How to reach me [@negiseijin](https://twitter.com/messages/compose?recipient_id=2945938111)
+- 📫 How to reach me [@green___onion](https://twitter.com/messages/compose?recipient_id=2945938111)
 
 <!---
 negiseijin/negiseijin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
