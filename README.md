@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [negiseijin!](https://twitter.com/green___onion)
-- 👀 I’m interested in Jamstack
-- 🌱 I’m currently learning Next.js
+- 👀 I’m interested in **Jamstack**
+- 🌱 I’m currently learning **Next.js**
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me [@green___onion](https://twitter.com/messages/compose?recipient_id=2945938111)
 
