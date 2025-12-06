@@ -3,7 +3,7 @@
 Frontend / Fullstack Engineer.
 
 **TypeScript, React, Next.js, Hono, Prisma, Turborepo**  
-
+aaa
 <p>
   <a href="https://x.com/green___onion" aria-label="My X (Twitter) profile">
     <img
@@ -29,10 +29,10 @@ Frontend / Fullstack Engineer.
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=negiseijin&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats-chi-two-58.vercel.app/api?username=negiseijin&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🧠 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negiseijin&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-chi-two-58.vercel.app/api/top-langs/?username=negiseijin&layout=compact&theme=tokyonight&hide_border=true)
