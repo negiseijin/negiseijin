@@ -66,7 +66,7 @@
 
 ## 🔥 Streak
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=negiseijin&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
+![GitHub Streak](https://github-readme-streak-stats-rust-seven.vercel.app/?user=negiseijin&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j)
 
 ---
 
